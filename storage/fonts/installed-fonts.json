@@ -1,0 +1,12 @@
+{
+    "dm sans": {
+        "italic": "C:\\xampp\\htdocs\\Rambla-master\\storage\\fonts\/dm_sans_italic_bba7b80e63c4715bc9d1cd25bc0938c3",
+        "500_italic": "C:\\xampp\\htdocs\\Rambla-master\\storage\\fonts\/dm_sans_500_italic_b8d230bc1f774a51fe22f115fc648615",
+        "normal": "C:\\xampp\\htdocs\\Rambla-master\\storage\\fonts\/dm_sans_normal_97ad3dc9f70ee29e1641125dae688a52",
+        "500": "dm_sans_500_d96b954b7113e1a4614976c1dcdac403",
+        "bold": "C:\\xampp\\htdocs\\Rambla-master\\storage\\fonts\/dm_sans_bold_87093361e683c7c0ada6b1d6fc52127e"
+    },
+    "boxicons": {
+        "normal": "boxicons_normal_29cb19fbfb90ef61e3b99f58d1084746"
+    }
+}
